@@ -75,7 +75,7 @@ Este projeto foi desenvolvido seguindo as boas práticas de acessibilidade na We
 * **Acessibilidade Cognitiva e Visual:** Contraste de cores validado e títulos visíveis estruturados em hierarquia lógica (`<h1>`, `<h2>`, `<h3>`), evitando saltos incorretos na árvore de cabeçalhos.
 * **Internacionalização:** Atributo `lang="pt-BR"` configurado na raiz do projeto para garantir a correta pronúncia por sintetizadores de voz.
 
-- A aplicação estará disponível em https://noveo-nextjs.vercel.app/
+- A aplicação estará disponível em https://noveo-eta.vercel.app/
 
 
 ## Observação
