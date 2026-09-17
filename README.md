@@ -20,7 +20,7 @@ Aplicação web em Next.js para explorar filmes utilizando a API do TMDB. O proj
 
 ## Pré-requisitos
 
-- Node.js 20 ou superior
+- Este projeto usa Next.js, que exige Node.js 20.9 ou superior
 - npm
 
 ## Instalação
