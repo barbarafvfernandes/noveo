@@ -12,11 +12,12 @@ Aplicação web em Next.js para explorar filmes utilizando a API do TMDB. O proj
 
 ## Tecnologias
 
-- Next.js 16
-- React 19
-- TypeScript
-- Axios
-- CSS Modules
+- Next.js: 16.3.5;
+- React: 19.2.4;
+- React-dom: 19.2.4;
+- TypeScript;
+- Axios: 1.20.0;
+- CSS Modules.
 
 ## Pré-requisitos
 
